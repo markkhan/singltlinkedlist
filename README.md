@@ -1,1 +1,1 @@
-# singltlinkedlist
+# singlylinkedlist
